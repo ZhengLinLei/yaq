@@ -54,6 +54,7 @@ yesButton.addEventListener("click", function() {
     document.body.innerHTML = `
         <div class="yes-screen">
             <h1 class="yes-text">!!!喜欢你yaq!! ( >᎑<)♡︎ᐝ</h1>
+            <h2> 不要生气了 valiii？ ❤️</h2>
             <img src="images/hug.png" alt="拥抱" class="yes-image">
         </div>
     `;
@@ -61,3 +62,4 @@ yesButton.addEventListener("click", function() {
     document.body.style.overflow = "hidden";
 
 });
+
